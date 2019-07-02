@@ -2,153 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cfc3f2b-9d7e-41a7-9f91-bbd6e7121b73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../hi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/aria2.COPYING" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/aria2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/aria2c.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/curl.COPYING" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/curl.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/dwnl.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ar/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/be/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/bg/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/bg/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/bn/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ca/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ca/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/cs/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/da/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/da/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/de/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/de/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/el/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/el/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/en@boldquot/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/en@quot/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/en_GB/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/eo/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/es/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/es/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/et/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/eu/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/fa/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/fi/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/fi/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/fil/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/fr/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/fr/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ga/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/gl/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/he/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/he/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/hr/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/hr/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/hu/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/hu/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/id/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/id/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/it/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/it/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ja/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ja/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/kk/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ko/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/locale.alias" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/lt/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ms/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/nb/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/nb/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/nl/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/nl/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/nn/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/oc/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/pl/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/pl/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/pt/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/pt/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/pt_BR/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/pt_BR/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ro/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ro/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ru/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/ru/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/sk/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/sk/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/sl/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/sr/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/sr/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/sv/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/sv/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/th/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/tr/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/tr/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/uk/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/uk/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/vi/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/vi/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/zh_CN/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/zh_CN/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/zh_HK/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/zh_TW/LC_MESSAGES/aria2.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/locale/zh_TW/LC_MESSAGES/wget.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.COPYING" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Advanced-Usage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Appendices.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Basic-Startup-Options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Concept-Index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Contributors.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Copying-this-manual.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Directory-Options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Directory_002dBased-Limits.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Distribution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Download-Options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Examples.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Exit-Status.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/FTP-Links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/FTP-Options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/FTP-Time_002dStamping-Internals.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Following-Links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/GNU-Free-Documentation-License.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/HTTP-Options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/HTTP-Time_002dStamping-Internals.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/HTTPS-_0028SSL_002fTLS_0029-Options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Internet-Relay-Chat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Invoking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Logging-and-Input-File-Options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Mailing-Lists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Option-Syntax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Overview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Portability.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Proxies.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Recursive-Accept_002fReject-Options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Recursive-Download.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Recursive-Retrieval-Options.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Relative-Links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Reporting-Bugs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Robot-Exclusion.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Sample-Wgetrc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Security-Considerations.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Signals.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Simple-Usage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Spanning-Hosts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Startup-File.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Time_002dStamping-Usage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Time_002dStamping.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Types-of-Files.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/URL-Format.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Various.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Very-Advanced-Usage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Web-Site.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Wgetrc-Commands.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Wgetrc-Location.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/Wgetrc-Syntax.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/wget.ini.sample" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../wget/перечень команд.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HomeWork_6_13/Companies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork_6_13/Companies/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="446">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,16 +39,10 @@
                 <element signature="method#toString#0;class#Account#0" />
                 <element signature="method#setNumber#0;class#Account#0" />
                 <element signature="method#generateNumber#0;class#Account#0" />
-                <element signature="e#1207#1280#1" />
                 <element signature="method#isValidNumber#0;class#Account#0" />
-                <element signature="e#1543#1678#1" />
-                <element signature="e#1618#1668#1" />
-                <element signature="e#1733#1776#1" />
                 <element signature="method#random#0;class#Account#0" />
                 <element signature="method#random#1;class#Account#0" />
-                <element signature="e#2462#2533#1" />
                 <element signature="method#random#2;class#Account#0" />
-                <element signature="e#2762#2814#1" />
               </folding>
             </state>
           </provider>
@@ -201,14 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Accounts/AccountMatcher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
+            <state relative-caret-position="114">
               <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-              <folding>
-                <element signature="e#181#182#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -216,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Accounts/CardAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="57">
               <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding>
                 <element signature="e#94#95#0" expanded="true" />
@@ -231,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Accounts/DepositAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="798">
               <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
             </state>
           </provider>
@@ -240,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BankClients/BankClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="323">
               <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
               <folding>
                 <element signature="e#338#339#0" expanded="true" />
@@ -253,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BankClients/IndividualBankClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
+            <state relative-caret-position="228">
               <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
               <folding>
                 <element signature="e#144#145#0" expanded="true" />
@@ -330,43 +174,13 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BankClients" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BankClients" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BankClients" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BankClients" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BankClients" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BankClients" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Accounts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BankClients" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BankClients" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BankClients" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../5.0/HomeWork_5_11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HomeWork_6_13/Companies" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -425,11 +239,12 @@
       <workItem from="1560411013518" duration="1281000" />
       <workItem from="1560934765686" duration="597000" />
       <workItem from="1561366584900" duration="23171000" />
+      <workItem from="1562068848190" duration="886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43415000" />
+    <option name="totallyTimeSpent" value="44301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -570,64 +385,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BankClients/IndividualBankClient.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="446">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
           <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BankClients/BankClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-          <folding>
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Accounts/CardAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Accounts/AccountMatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Accounts/DepositAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -639,26 +403,65 @@
             <element signature="method#toString#0;class#Account#0" />
             <element signature="method#setNumber#0;class#Account#0" />
             <element signature="method#generateNumber#0;class#Account#0" />
-            <element signature="e#1207#1280#1" />
             <element signature="method#isValidNumber#0;class#Account#0" />
-            <element signature="e#1543#1678#1" />
-            <element signature="e#1618#1668#1" />
-            <element signature="e#1733#1776#1" />
             <element signature="method#random#0;class#Account#0" />
             <element signature="method#random#1;class#Account#0" />
-            <element signature="e#2462#2533#1" />
             <element signature="method#random#2;class#Account#0" />
-            <element signature="e#2762#2814#1" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Accounts/AccountMatcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="114">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Accounts/CardAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Accounts/DepositAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BankClients/BankClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BankClients/IndividualBankClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
           </folding>
         </state>
       </provider>
