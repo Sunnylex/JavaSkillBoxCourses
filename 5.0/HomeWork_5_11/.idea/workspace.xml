@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc4e7687-9f9e-4c80-b2b9-b05471b7d53c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../hi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/aria2.COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/aria2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/aria2c.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/curl.COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/curl.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/dwnl.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ar/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/be/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/bg/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/bg/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/bn/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ca/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ca/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/cs/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/da/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/da/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/de/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/de/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/el/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/el/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/en@boldquot/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/en@quot/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/en_GB/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/eo/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/es/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/es/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/et/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/eu/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/fa/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/fi/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/fi/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/fil/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/fr/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/fr/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ga/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/gl/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/he/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/he/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/hr/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/hr/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/hu/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/hu/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/id/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/id/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/it/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/it/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ja/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ja/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/kk/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ko/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/locale.alias" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/lt/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ms/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/nb/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/nb/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/nl/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/nl/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/nn/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/oc/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/pl/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/pl/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/pt/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/pt/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/pt_BR/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/pt_BR/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ro/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ro/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ru/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/ru/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/sk/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/sk/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/sl/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/sr/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/sr/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/sv/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/sv/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/th/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/tr/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/tr/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/uk/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/uk/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/vi/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/vi/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/zh_CN/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/zh_CN/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/zh_HK/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/zh_TW/LC_MESSAGES/aria2.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/locale/zh_TW/LC_MESSAGES/wget.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Advanced-Usage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Appendices.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Basic-Startup-Options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Concept-Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Contributors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Copying-this-manual.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Directory-Options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Directory_002dBased-Limits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Distribution.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Download-Options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Examples.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Exit-Status.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/FTP-Links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/FTP-Options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/FTP-Time_002dStamping-Internals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Following-Links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/GNU-Free-Documentation-License.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/HTTP-Options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/HTTP-Time_002dStamping-Internals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/HTTPS-_0028SSL_002fTLS_0029-Options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Internet-Relay-Chat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Invoking.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Logging-and-Input-File-Options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Mailing-Lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Option-Syntax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Portability.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Proxies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Recursive-Accept_002fReject-Options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Recursive-Download.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Recursive-Retrieval-Options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Relative-Links.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Reporting-Bugs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Robot-Exclusion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Sample-Wgetrc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Security-Considerations.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Signals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Simple-Usage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Spanning-Hosts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Startup-File.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Time_002dStamping-Usage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Time_002dStamping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Types-of-Files.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/URL-Format.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Various.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Very-Advanced-Usage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Web-Site.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Wgetrc-Commands.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Wgetrc-Location.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/Wgetrc-Syntax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/wget.ini.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../wget/перечень команд.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding>
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PhoneDirectory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Phone.java" />
+        <option value="$PROJECT_DIR$/src/PhoneDirectory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HomeWork_5_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork_5_11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork_5_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork_5_11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork_5_11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc4e7687-9f9e-4c80-b2b9-b05471b7d53c" name="Default Changelist" comment="" />
+      <created>1559718184703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559718184703</updated>
+      <workItem from="1559718189619" duration="949000" />
+      <workItem from="1559721067239" duration="12394000" />
+      <workItem from="1559936535039" duration="391000" />
+      <workItem from="1560172745690" duration="2630000" />
+      <workItem from="1561452464726" duration="1995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18359000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32917964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32917964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="276" column="23" selection-start-line="276" selection-start-column="23" selection-end-line="276" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PhoneDirectory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

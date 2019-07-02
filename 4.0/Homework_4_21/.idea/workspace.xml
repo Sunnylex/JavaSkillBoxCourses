@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48f41c4f-9460-4154-b41c-74e826fa4f4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../2.0/Homework2/Tickets/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/src/CatColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/src/Kithen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_4_17/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodesSymbols/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringExperiments/src/EngText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringExperiments/src/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_4_27/Birthday/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_4_27/Birthday/Birthday.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_4_27/Birthday/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_5/Arrays/src/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_5/Arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_5/Arrays/src/XClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_7/ArrayListConsole/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_7/ArrayListConsole/ArrayListConsole.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_7/ArrayListConsole/src/Comamand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_7/ArrayListConsole/src/Commander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_7/ArrayListConsole/src/EmailBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_7/ArrayListConsole/src/EmailValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_7/ArrayListConsole/src/Tasker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_9/EmailSet/.idea/libraries/com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_9/EmailSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_9/EmailSet/EmailSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_9/EmailSet/src/Comand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_9/EmailSet/src/EmailSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.0/Homework_5_9/EmailSet/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/JCourse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.0/Homework2/IncomeCalculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.0/Homework2/IncomeCalculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2.0/Homework2/Tickets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2.0/Homework2/Tickets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/out/production/Cat/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/out/production/Cat/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/out/production/Cat/CatColors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/out/production/Cat/Loader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/out/production/Cat/Loader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/src/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/src/CatColors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/src/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../3.0/Homework3/Cat/Cat/src/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework4.13/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4.13/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework4.6/IntegerExperiments/IntegerExperiments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4.6/IntegerExperiments/IntegerExperiments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework4.6/IntegerExperiments/IntegerExperiments/out/production/IntegerExperiments/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4.6/IntegerExperiments/IntegerExperiments/out/production/IntegerExperiments/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework4.6/IntegerExperiments/IntegerExperiments/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4.6/IntegerExperiments/IntegerExperiments/src/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Homework_4_21" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework_4_21" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CodesSymbols" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48f41c4f-9460-4154-b41c-74e826fa4f4a" name="Default Changelist" comment="" />
+      <created>1559717927464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559717927464</updated>
+      <workItem from="1559717928926" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
