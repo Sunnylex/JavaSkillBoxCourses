@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d78d40-828c-4051-8005-da4253657551" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../HomeWork_6_6/BankClients/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork_6_6/BankClients/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../HomeWork_6_6/BankClients/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork_6_6/BankClients/src/Main.java" afterDir="false" />
     </list>
@@ -213,7 +212,7 @@
       <workItem from="1560411010109" duration="598000" />
       <workItem from="1560934759733" duration="609000" />
       <workItem from="1561368258158" duration="4800000" />
-      <workItem from="1562068875230" duration="865000" />
+      <workItem from="1562068875230" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="all">
       <created>1562052343284</created>
@@ -226,7 +225,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32026000" />
+    <option name="totallyTimeSpent" value="32359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
