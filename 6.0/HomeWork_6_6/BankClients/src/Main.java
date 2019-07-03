@@ -73,6 +73,7 @@ public class Main {
 
         new String("hi");
 
+        new String("bye");
 
     }
 }
