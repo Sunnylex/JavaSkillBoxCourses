@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5cfc3f2b-9d7e-41a7-9f91-bbd6e7121b73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../HomeWork_6_13/Companies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../HomeWork_6_13/Companies/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../first/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../first/text.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -245,7 +247,8 @@
     <option name="totallyTimeSpent" value="50683000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25416666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

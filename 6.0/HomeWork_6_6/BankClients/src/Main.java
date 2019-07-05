@@ -71,9 +71,5 @@ public class Main {
             System.out.println(Account.getNumbers().get(key));
         }
 
-        new String("hi");
-
-        new String("bye");
-
     }
 }
